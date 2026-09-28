@@ -25,7 +25,7 @@ I'm an Apprentice for Application Development (Fachinformatiker AE) in Düsseldo
 ## 📜 Certifications
 
 * PCAP-31-03 (Certified Associate in Python Programming / Python Institute) ([Verify](https://www.credly.com/badges/6c621467-0857-4fe0-806d-f42e890a361a/public_url))
-* 1Z0-811 (Java Foundations / Oracle) ([Verify]([https://www.credly.com/badges/fce2c22e-1195-480f-b4d5-278facc68b2e/public_url](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0DA53A65A8E7F88F7FEB42E03643CDFAD26671986C32BD0C948FE9A6E869933A)))
+* 1Z0-811 (Java Foundations / Oracle) ([Verify](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0DA53A65A8E7F88F7FEB42E03643CDFAD26671986C32BD0C948FE9A6E869933A))
 * AWS (Certified Cloud Practitioner)
 * PSM I (Professional Scrum Master I / Scrum.org) ([Verify](https://www.credly.com/badges/fce2c22e-1195-480f-b4d5-278facc68b2e/public_url))
 
